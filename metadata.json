@@ -1,0 +1,6 @@
+{
+  "name": "Aura Men's Wear - POS & Inventory System",
+  "description": "Professional billing, size & color inventory management, and analytics software for men's fashion retail.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
